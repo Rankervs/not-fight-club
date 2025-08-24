@@ -1,0 +1,65 @@
+.create-character {
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 300px;
+}
+
+.character-name-header {
+ margin-bottom: 5px;
+}
+
+.create-window {
+width: 300px;
+height: 30px;
+margin-bottom: 20px;
+}
+
+.create-button {
+width: 200px;
+height: 50px;
+font-size: 20px;
+}
+
+.fight {
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 400px;
+}
+
+.fight-button {
+width: 200px;
+height: 50px;
+font-size: 20px;
+}
+
+.rectangle-character-page {
+    width: auto;
+    height: 3px;
+    background-color: black;
+}
+
+.character-page-img {
+    width: 350px;
+    height: 350px;
+    margin-top: 20px;
+}
+
+.character-page {
+    display: flex;
+    justify-content: space-between;
+    width: 600px
+}
+
+.character-page-statistics-wins {
+color: green;
+}
+
+.character-page-statistics-loses {
+color: red;
+}
